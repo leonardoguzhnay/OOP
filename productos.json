@@ -1,0 +1,9 @@
+[
+    {
+        "codigo": 12345,
+        "nombre": "Cebollas",
+        "precio": 1.0,
+        "stock": 100,
+        "tipo": "Alimenticio"
+    }
+]
